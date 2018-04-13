@@ -116,7 +116,7 @@ class AliExSpider(scrapy.Spider):
     cprint(product['price_regular'], 'green')
     
     # product id extract 1439489881 from link http://ali.../1439489881.html
-    product['id'] = re.search("\/\d.*[^.html]", response.url).group(0)[1:]
+    product['id'] = re.search("\d{7,}[^.html]", response.url).group(0)
 
     # product link
     product['url'] = response.url
