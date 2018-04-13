@@ -1,0 +1,1639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"uk-but",
+				"uk-button-primary \tUIkit class"
+			],
+			[
+				"uk-bu",
+				"uk-breadcrumb \tUIkit class"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"vk",
+				"vk_id"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"for",
+				"fore\tfor ... else"
+			],
+			[
+				"uk-icon-brus",
+				"uk-icon-binoculars \tUIkit class"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"uk-cont",
+				"uk-contrast \tUIkit class"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pla",
+				"playSound"
+			],
+			[
+				"uk-icon-clo",
+				"uk-icon-clock-o \tUIkit class"
+			],
+			[
+				"uk-icon-ge",
+				"uk-icon-gear \tUIkit class"
+			],
+			[
+				"uk-messa",
+				"uk-notify-message-warning \tUIkit class"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"uk-icon-p",
+				"uk-icon-plus \tUIkit class"
+			],
+			[
+				"ukgrid-wi",
+				"uk-grid-width-1-2 \tUIkit class"
+			],
+			[
+				"data-uk-gr",
+				"data-uk-grid-margin \t UIkit uk-data"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"uk-block",
+				"uk-block-muted \tUIkit class"
+			],
+			[
+				"lis",
+				"lis-n\tlist-style: none;"
+			],
+			[
+				"admin",
+				"admin_subject"
+			],
+			[
+				"DB_SE",
+				"DB_SERVER_LOCAL"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"uk-width-medi",
+				"uk-width-medium-1-2 \tUIkit class"
+			],
+			[
+				"uk-wi",
+				"uk-width-1-2 \tUIkit class"
+			],
+			[
+				"u-pos",
+				"uk-position-relative \tUIkit class"
+			],
+			[
+				"height",
+				"height: "
+			],
+			[
+				"border-bo",
+				"border-bottom-right-radius: "
+			],
+			[
+				"uk-b",
+				"uk-button \tUIkit class"
+			],
+			[
+				"uk-button",
+				"uk-button-primary"
+			],
+			[
+				"uk-vi",
+				"uk-visible-large \tUIkit class"
+			],
+			[
+				"uk-hi",
+				"uk-hidden-medium \tUIkit class"
+			],
+			[
+				"uk-ve",
+				"uk-vertical-align-middle \tUIkit class"
+			],
+			[
+				"uk-cover",
+				"uk-position-cover \tUIkit class"
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"po",
+				"position: "
+			],
+			[
+				"uk-position",
+				"uk-position-cover \tUIkit class"
+			],
+			[
+				"uk-grid-wid",
+				"uk-grid-width-1-4 \tUIkit class"
+			],
+			[
+				"uk-width",
+				"uk-width-1-1 \tUIkit class"
+			],
+			[
+				"fo",
+				"font: "
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"uk-push",
+				"uk-push-2-4 \tUIkit class"
+			],
+			[
+				"uk-align",
+				"uk-align-center \tUIkit class"
+			],
+			[
+				"COLO",
+				"color: "
+			],
+			[
+				"color-TEXT",
+				"color-text-primary"
+			],
+			[
+				"uk-grid-width-medi",
+				"uk-grid-width-medium-1-3 \tUIkit class"
+			],
+			[
+				"font-",
+				"font-weight: "
+			],
+			[
+				"colo",
+				"color-bg-primary"
+			],
+			[
+				"uk-text-c",
+				"uk-text-center \tUIkit class"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"block",
+				"block-primary"
+			],
+			[
+				"uk-blo",
+				"uk-block-default \tUIkit class"
+			],
+			[
+				"uk-con",
+				"uk-container-center \tUIkit class"
+			],
+			[
+				"uk-co",
+				"uk-container \tUIkit class"
+			],
+			[
+				"uk-butto",
+				"uk-button-large \tUIkit class"
+			],
+			[
+				"nav",
+				"navbar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ali_my/spiders/ali_spider.py",
+			"settings":
+			{
+				"buffer_size": 501,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/therealman_/domains/localhost/parse-ali/scrapy_aliexpress/spiders/ali.py",
+			"settings":
+			{
+				"buffer_size": 4279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/therealman_/domains/localhost/parse-ali/ali.csv",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "https://www.aliexpress.com/store/all-wholesale-products/1084571.html",
+			"settings":
+			{
+				"buffer_size": 68,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/therealman_/.bash_profile",
+			"settings":
+			{
+				"buffer_size": 342,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/therealman_/.profile",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Clear sniffer marks"
+			],
+			[
+				"preferens",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"preferences: sub",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"code s",
+				"PHP Code Sniffer: Switch coding standard"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/Library/bin/pip",
+		"/Users/therealman_/.profile",
+		"/Users/therealman_/domains/avonang.dev/www/vk-album.php",
+		"/Users/therealman_/domains/avonang.dev/www/user/pages/01.home/02.tovary/products.json",
+		"/Users/therealman_/domains/avonang.dev/www/user/pages/01.home/02.tovary/process.php",
+		"/Users/therealman_/domains/avonang.dev/www/user/pages/01.home/02.tovary/frontmatter.yaml",
+		"/Volumes/assets/My documents/works/me tryng to start working/интернет магазин/process json/run.sh",
+		"/Volumes/assets/My documents/works/me tryng to start working/интернет магазин/products.json",
+		"/Users/therealman_/domains/avonang.dev/www/user/themes/actionshop/templates/default.html.twig",
+		"/Users/therealman_/domains/terminal commands/update grav sites.sh",
+		"/Users/therealman_/domains/avonang.dev/www/user/pages/01.home/00.frontpage/default.md",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/css/style.less",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/index.twig",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/index.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/information.yaml",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/functions.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/demo.php",
+		"/Users/therealman_/domains/new-site.dev/www/user/config/system.yaml",
+		"/Volumes/Kontakt v5.6.0/Instructions.txt",
+		"/Users/therealman_/domains/tm-frukt.dev/www/libraries/vendor/cimage/imgd.php",
+		"/Volumes/A Better Finder Attributes 6.00/A Better Finder Attributes - SN.txt",
+		"/Volumes/macOS/System/Library/Frameworks/IOKit.framework/Versions/A/Headers/ps/IOPSKeys.h",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/5349999D-5578-4357-B735-2C189F9573ED/configuration.php",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-salon-vals-zcvetov.dev.sh",
+		"/Users/therealman_/domains/remont-kemerovo.dev/www/.env",
+		"/Users/therealman_/domains/crocorock.dev/www/web/app/themes/crocorock/style.css",
+		"/Users/therealman_/domains/crocorock.dev/www/config/environments/development.php",
+		"/Users/therealman_/domains/crocorock.dev/www/.env",
+		"/Users/therealman_/domains/remont-kemerovo.dev/sources/documents/login - ремонт-квартир-кемерово.рф.txt",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/8D89723A-5DCE-49EB-ACC1-AD8D15A2EDF3/theme.php",
+		"/Volumes/assets/My documents/documents/xero'копии, docs/мои/диплом.txt",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/BE6F4AFA-DA12-4C8F-903A-84A808C43316/theme.php",
+		"/Users/therealman_/domains/remont-kemerovo.dev/www/wp-config.php",
+		"/Users/therealman_/Desktop/worogko_vals-zcvetov_2016-05-16.sql",
+		"/Users/therealman_/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/therealman_/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/EFI/EFI/CLOVER/config.plist",
+		"/Users/therealman_/Desktop/Tic Tac Toe with Synchroscope + AngularJS by TheRealMaN_.html",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/1C23E673-A6AD-48F3-8422-214EB0A7A0F7/scripts.js",
+		"/Users/therealman_/.bash_profile",
+		"/Users/therealman_/Desktop/codenames/js/scripts.js",
+		"/Volumes/assets/My documents/texts/boardgames/Находка для шпиона/assets/assets(ru)/места",
+		"/Users/therealman_/Desktop/codenames/assets/words.json",
+		"/Users/therealman_/Desktop/codenames/words.json",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/7CCBA45B-1AB3-47D6-9B48-1FE6A293F898/wp-config.php",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/95C1B7FC-B084-4ADF-B59F-6929AF0B13F2/wp-config.php",
+		"/Users/therealman_/domains/tm-frukt.dev/www/libraries/vendor/cimage/imgp_config.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/.htaccess",
+		"/Users/therealman_/domains/molgvar.dev/www/.htaccess",
+		"/Users/therealman_/domains/molgvar.dev/www/templates/yoo_master2/layouts/theme.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/settings.yml",
+		"/Users/therealman_/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/therealman_/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/therealman_/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/therealman_/domains/molgvar.dev/www/templates/yoo_master2/css/theme.less",
+		"/Users/therealman_/domains/molgvar.dev/www/templates/yoo_master2/checksums",
+		"/Users/therealman_/Desktop/flower.svg",
+		"/Users/therealman_/domains/molgvar.dev/www/images/glavnaya/icon-flower.svg",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/footer.php",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-molgvar.com.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE-molgvar.dev.sh",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-config.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/assets/chto-my-mogem/ruchnaya-rabota.svg",
+		"/Volumes/downloads/My documents/downloads/quotquot.wordpress.2016-04-10.xml",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/sources/assets/separator.svg",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/sources/assets/landshafty copy.html",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/email.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/form-email-admin.twig",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/form-email.twig",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/form-email-user.twig",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-svadba-kem.dev.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-svadba-kem.ru.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE-svadba-kem.dev.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-ALL.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-REMOTE-LOCAL-ALL-molgvar.com.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE-svadba-kem.ru.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE-tm-frukt.dev.sh",
+		"/Users/therealman_/domains/terminal commands/sync-files-db-LOCAL-REMOTE-salon-vals-zcvetov.dev.sh",
+		"/Users/therealman_/domains/terminal commands/export-db-all-LOCAL.sh",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/404.php",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/form-email-template.twig",
+		"/Users/therealman_/domains/salon-vals-zcvetov.dev/www/wp-content/themes/vals-zcvetov/404.twig",
+		"/Volumes/mac os x/Users/therealman_/.ssh/key_rsa_alt.pub",
+		"/Users/therealman_/Library/Caches/Cleanup At Startup/Transmit/01E4434C-F434-44C0-B728-FC03756B727B/authorized_keys",
+		"/Users/therealman_/Desktop/bootlog.log.txt",
+		"/Users/therealman_/domains/svadba-kem.dev/www/wp-content/themes/svadba-kem/vendor/uikit/scss/uikit-mixins.scss",
+		"/Users/therealman_/domains/svadba-kem.dev/sources/template/svadba-kem/css/style.scss",
+		"/Users/therealman_/domains/svadba-kem.dev/sources/template/svadba-kem/index.html",
+		"/Users/therealman_/domains/svadba-kem.dev/sources/template/svadba-kem/vendor/uikit/scss/core/button.scss",
+		"/private/etc/hosts",
+		"/Users/therealman_/domains/svadba-kem.dev/sources/texts/form/form - admin email.html",
+		"/Users/therealman_/domains/svadba-kem.dev/sources/texts/form/form - user email.html",
+		"/Volumes/assets/My documents/domains/ssh commands.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ali_my/spiders/ali_spider.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 213,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										447,
+										448
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										441,
+										442
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/therealman_/domains/localhost/parse-ali/scrapy_aliexpress/spiders/ali.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										416,
+										417
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										286,
+										287
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/therealman_/domains/localhost/parse-ali/ali.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 68,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/therealman_/.bash_profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										310,
+										311
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										270,
+										271
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/therealman_/.profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ali-parser.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/domains/remont-kemerovo.dev/www/web/app/themes/remont-kemerovo/remont-kemerovo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
